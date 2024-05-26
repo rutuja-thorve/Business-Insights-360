@@ -40,11 +40,11 @@ Shows revenue by division, customers , products and channels.
  10. YTD ( year to date)
 
  ### Power BI Learnings
-  1. creating calcualted columns and DAX measures
+  1. Creating calcualted columns and DAX measures
   2. Data Modelling ,data validation techniques and using KPI indicators
-  3. using bookmarks to switch between two visuals and conditional formatting
-  4. page navigation with buttons
-  5. using tooltips to save page area
+  3. Bookmarks to switch between two visuals and conditional formatting
+  4. Page navigation with buttons
+  5. Tooltips to save page area
   6. Dynamic titles based on the applied filters
   7. PowerBI services for publishing and sharing reports online
   8. Auto refresh setup for data through gateway
