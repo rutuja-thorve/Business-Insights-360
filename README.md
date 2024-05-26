@@ -2,42 +2,44 @@
 Business Insights 360 : A Power BI Journey
 
 ##  Project Overview
-This project is designed to optimize various aspects of AtliQ Hardwares business which includes Finance, Sales, Marketing, Supply Chain and Executive Management.
+The objective was to leverage Power BI to extract valuable insights from a dataset and optimize various aspects of AtliQ Hardwares business which includes Finance, Sales, Marketing, Supply Chain and Executive Management.
 
 ### Live Dashboard Link 
-https://app.powerbi.com/groups/me/reports/081abbe8-0abe-4ecc-bb9c-d6b9d84a0c22/ReportSectionaa0d9bb6b3cacc640b75?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiNWM4ODFmZjEtZDY2NC00ZjIzLWE3MDctOWFjMTc3OTQzNjQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-### Finance View: Financial planning and Expense Management
+### Finance View: Insights from P & L statements and sales trends.
 Implemented a financial forecasting model, resulting in more accurate budget predictions.
 Created benchmarking against last year and target goals for budgeting.
     
 ### Sales View: Increase sales revenue with Customer and Product Performance
-Created customer and product  overall sales performance report.
-Identified sales trends and track KPIs.
+Growth analysis over net sales and gross margin for customers and products.
 
 ### Marketing View: Implement data-driven marketing strategies
-Created  region and product wise  overall market performance report and unit economics. 
-Identified  market trends and track KPIs.
+Created  region and product wise  overall market performance report. 
+Identified track KPIs for more insights.
     
-### Supply Chain View: Optimization metrics for efficient supply chain management.
+### Supply Chain View: 
 Identified forecast accuracy % , net error % ,absolute error %  trends.
-Key Metrices by customers and products demanding supply management.
+Forecast Accuracy for products, segments, catefgories and customers.
 
-### Executive View: Metrics critical for top-level decision-makers.
-Developed an executive dashboard for real-time performance monitoring.
-Shows revenue by division, customers , products and channels.
+### Executive View: An Insightfull dashboard for top-level decision-makers.
+ An executive dashboard for real-time performance monitoring.
+Shows revenue by by Top N customers & products.
 
- ### Business Terminology
- 1. Net sales and Net Invoice Sales
- 2. Net Profit and Net Profit %
- 3. Gross Margin and Gross Margin %
- 4. Pre invoice deductions and Post invoice deductions
- 5. COGS(cost of goods sold)
- 6. Targets
- 7. Absolute Error
- 8. Variance  
- 9. YTG (year to go)
- 10. YTD ( year to date)
+ ### Key Business Metrics
+ 1. Net sales 
+ 2. Net Invoice Sales 
+ 3. Net Profit and Net Profit %
+ 4. Gross Margin and Gross Margin %
+ 5. Pre invoice deductions and Post invoice deductions
+ 6. COGS(cost of goods sold)
+ 7. Targets
+ 8. Forecast Accuracy
+ 9. Net Error
+ 10. Absolute Error
+ 11. Variance  
+ 12. YTG (year to go)
+ 13. YTD ( year to date)
 
  ### Power BI Learnings
   1. Creating calcualted columns and DAX measures
@@ -49,7 +51,7 @@ Shows revenue by division, customers , products and channels.
   7. PowerBI services for publishing and sharing reports online
   8. Auto refresh setup for data through gateway
 
-  ### Technical Advancements
+  ### Tools Uesd
   1. PowerBI Desktop
   2. PowerBI Service
   3. MYSQL database
@@ -60,6 +62,8 @@ Shows revenue by division, customers , products and channels.
   8. Project Charter file
 
   ### Soft Skills
- 1. Stakeholders mapping analysis For Effective communication with stakeholders feedback and management
- 2. Business and domain knowledge in sales,finance,marketing,market share and supply chain.
+ 1. Building an interactive visual report.
+ 2. Develop a Problem Solving Mindset.
+ 3. Effective Communication with stackholders.
+ 4. Business and domain knowledge in sales,finance,marketing,market share and supply chain.
 
